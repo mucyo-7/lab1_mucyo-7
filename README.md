@@ -1,9 +1,4 @@
-# Lab 1: Grade Evaluator & Archiver
-**Student:** Mucyo Derrick  
-**Course:** Introduction to Python Programming and Databases  
-**Year:** BSE Year 1 | Trimester 2  
 
----
 
 ## What This Project Does
 This project has two parts:
